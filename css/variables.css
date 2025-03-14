@@ -1,0 +1,40 @@
+:root{
+    --color-1: black;
+    --color-2: #FFFFFF;
+    --color-3: #FEAF00;
+    --color-4: #F8D442;
+    --color-5: #6C6C6C;
+    --color-6: #E5E5E5;
+    --button1-1: #feaf00;
+    --button1-2: #db9600;
+    --color-7: #F2EAE1;
+}
+
+@font-face{
+    font-family: "robot-regular";
+    src: url(../storage/fonts/Roboto_Mono/RobotoMono-Regular.ttf);
+}
+
+@font-face{
+    font-family: "mBold";
+    src: url(../storage/fonts/Montserrat/Montserrat-Bold.ttf);
+}
+
+@font-face{
+    font-family: "mr";
+    src: url(../storage/fonts/Montserrat/Montserrat-Regular.ttf);
+}
+
+@font-face{
+    font-family: "sBold";
+    src: url(../storage/fonts/Montserrat/Montserrat-SemiBold.ttf);
+}
+@font-face{
+    font-family: "monM";
+    src: url(../storage/fonts/Montserrat/Montserrat-Medium.ttf);
+}
+
+@font-face{
+    font-family: "Mmixed";
+    src: url(../storage/fonts/Montserrat/Montserrat-ExtraBold.ttf);
+}
