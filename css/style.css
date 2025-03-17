@@ -221,3 +221,30 @@ body{
     gap: 38px;
     margin-top: 20px;
 }
+
+.messaje {
+    margin: 15px auto;
+    padding: 10px;
+    max-width: 80%;
+    text-align: center;
+    border-radius: 4px;
+    display: none;
+}
+
+.exito {
+    background-color: #dff0d8;
+    color: #3c763d;
+    border: 1px solid #d6e9c6;
+}
+
+.error {
+    background-color: #f2dede;
+    color: #a94442;
+    border: 1px solid #ebccd1;
+}
+
+.info {
+    background-color: #d9edf7;
+    color: #31708f;
+    border: 1px solid #bce8f1;
+}

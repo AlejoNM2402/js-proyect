@@ -1,3 +1,4 @@
+//Logout button
 document.addEventListener('DOMContentLoaded', function() {
     var logoutBtn = document.getElementById('logoutBtn');
 
